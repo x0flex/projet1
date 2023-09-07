@@ -1,4 +1,4 @@
-# - Bot Telegram - Projet privé 
+# Bot Telegram - Projet privé 
 
 <div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="190" alt="nodejs logo"  />
