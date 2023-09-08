@@ -11,7 +11,7 @@
    
 ## Description
 
-Ce bot Telegram est un assistant virtuel développé pour interagir avec les utilisateurs sur la plateforme de messagerie Telegram. Il peut répondre à des commandes, fournir des informations, générer des réponses, gérer des abonnements, et bien plus encore.
+Ce bot Telegram est un assistant virtuel développé pour interagir avec les utilisateurs sur Telegram. Il peut répondre à des commandes, fournir des informations, générer des réponses, gérer des abonnements, et bien plus encore.
 
 ## Table des matières
 
@@ -55,11 +55,11 @@ Pour exécuter ce bot sur votre propre système, suivez ces étapes d'installati
 
 Ce bot est hautement personnalisable pour répondre à vos besoins spécifiques. Voici quelques-unes des personnalisations possibles :
 
-- **Gestion des abonnements** : Vous pouvez personnaliser la logique d'abonnement du bot pour restreindre l'accès à certaines fonctionnalités aux utilisateurs ayant effectué un paiement valide.
+- **Gestion des abonnements** : Personnaliser la logique d'abonnement du bot pour restreindre l'accès à certaines fonctionnalités aux utilisateurs ayant effectué un paiement valide.
 
-- **Intégration de moyens de paiement** : Personnalisez l'intégration de PayDunya pour permettre aux utilisateurs de faire des dons ou des paiements via votre bot.
+- **Intégration de moyens de paiement** : Personnaliser l'intégration de moyens de paiements pour permettre aux utilisateurs de faire des dons ou des paiements via votre bot.
 
-- **Réponses** : Vous pouvez ajuster les paramètres pour obtenir des réponses plus pertinentes en fonction de votre cas d'utilisation.
+- **Réponses** : Ajuster les paramètres pour obtenir des réponses plus pertinentes en fonction de votre cas d'utilisation.
 
 ## Fonctionnalités
 
